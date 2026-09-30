@@ -115,15 +115,15 @@ It includes:
 
 ### Main Dashboard
 
-![Main Dashboard](Dashboard/01_Main_Dashboard.png)
+![Main Dashboard](Dashboard/01_Main_Dashboard.jpeg)
 
 ### MTD Report
 
-![MTD Report](Dashboard/02_MTD_Report.png)
+![MTD Report](Dashboard/02_MTD_Report.jpeg)
 
 ### Same Period Last Year
 
-![Same Period Last Year](Dashboard/03_Same_Period_Last_Year.png)
+![Same Period Last Year](Dashboard/03_Same_Period_Last_Year.jpeg)
 
 ## Sample Overall Metrics
 
